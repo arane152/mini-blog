@@ -111,7 +111,7 @@ Please change the parent <Route path="${$}"> to <Route path="${$==="/"?"*":`${$}
     display: flex;
     width: 16px;
     height: 16px;
-    background-image: url(../public/DateIcon.svg);
+    background-image: url(/DateIcon.svg);
 `;function iI(n){const{post:e,onClick:t}=n;return J.jsxs(Tk,{onClick:t,children:[J.jsx(wk,{children:J.jsx(bk,{src:e.image})}),J.jsxs(Ik,{children:[J.jsxs(Ak,{children:[J.jsx(Ck,{}),J.jsx(Rk,{children:e.date})]}),J.jsx(Sk,{children:e.title})]})]})}const xk=ce.button`
     background-color: transparent;
     display: block;
@@ -200,7 +200,7 @@ Please change the parent <Route path="${$}"> to <Route path="${$==="/"?"*":`${$}
     display: flex;
     width: 36px;
     height: 36px;
-    background-image: url(../public/LogoIcon.svg);
+    background-image: url(/LogoIcon.svg);
     transition: 0.15s all ease-in-out;
 
     &:hover {
@@ -209,7 +209,7 @@ Please change the parent <Route path="${$}"> to <Route path="${$==="/"?"*":`${$}
 `,Mk=ce(aR)`
     width: 32px;
     height: 32px;
-    background-image: url(../public/SearchIcon.svg);
+    background-image: url(/SearchIcon.svg);
 `,hy=ce.span`
     font-size: 20px;
     font-weight: 500;
@@ -240,9 +240,9 @@ Please change the parent <Route path="${$}"> to <Route path="${$==="/"?"*":`${$}
     display: flex;
     width: 24px;
     height: 24px;
-    background-image: url(../public/Instagram.png);
+    background-image: url(/Instagram.png);
 `,Bk=ce(oR)`
-    background-image: url(../public/Facebook.png);
+    background-image: url(/Facebook.png);
 `,zk=ce.div`
     display: flex;
     position: absolute;
@@ -290,7 +290,7 @@ Please change the parent <Route path="${$}"> to <Route path="${$==="/"?"*":`${$}
     top: 30%;
     width: 140px;
     height: 120px;
-    background-image: url(../public/MainImgLeft.png);
+    background-image: url(/MainImgLeft.png);
     background-repeat: no-repeat;
     background-position: center;
 `,$k=ce.div`
@@ -300,7 +300,7 @@ Please change the parent <Route path="${$}"> to <Route path="${$==="/"?"*":`${$}
     top: 5%;
     width: 489px;
     height: 277px;
-    background-image: url(../public/MainImgRight.png);
+    background-image: url(/MainImgRight.png);
     background-repeat: no-repeat;
     background-position: center;
 `,Kk=ce.div`
@@ -5139,7 +5139,7 @@ This typically indicates that your device does not have a healthy Internet conne
     top: 5%;
     width: 489px;
     height: 277px;
-    background-image: url(../public/MainImgRight.png);
+    background-image: url(/MainImgRight.png);
     background-repeat: no-repeat;
     background-position: center;
 `,BF=ce.div`
@@ -5149,7 +5149,7 @@ This typically indicates that your device does not have a healthy Internet conne
     top: 30%;
     width: 140px;
     height: 120px;
-    background-image: url(../public/MainImgLeftReverse.png);
+    background-image: url(/MainImgLeftReverse.png);
     background-repeat: no-repeat;
     background-position: center;
 `,zF=ce.h1`
@@ -5183,7 +5183,7 @@ This typically indicates that your device does not have a healthy Internet conne
     display: flex;
     width: 20px;
     height: 20px;
-    background-image: url(../public/DateIcon.svg);
+    background-image: url(/DateIcon.svg);
     background-repeat: no-repeat;
     background-position: center;
 `;function $F(n){return J.jsxs(MF,{children:[J.jsxs(LF,{children:[J.jsx(UF,{}),J.jsx(BF,{})]}),J.jsx(zF,{children:n.title}),J.jsxs(FF,{children:[J.jsx(jF,{children:"@Yejun_Kim"}),J.jsxs(qF,{children:[J.jsx(GF,{}),J.jsx(HF,{children:n.date})]})]})]})}ce.div`
